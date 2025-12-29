@@ -44,6 +44,7 @@ robolectric = "4.16"
 roomVersion = "2.8.4"
 swiperefreshlayout = "1.2.0"
 uiautomator = "2.3.0"
+ultronAndroid = "2.6.2"
 viewpager2 = "1.1.0"
 workRuntimeKtx = "2.11.0"
 composeBom = "2025.12.01"
@@ -109,6 +110,7 @@ retrofit2-kotlinx-serialization-converter = { module = "com.squareup.retrofit2:c
 robolectric = { module = "org.robolectric:robolectric", version.ref = "robolectric" }
 room-testing = { module = "androidx.room:room-testing", version.ref = "roomVersion" }
 swiperefreshlayout = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version.ref = "swiperefreshlayout" }
+ultron-android = { module = "com.atiurin:ultron-android", version.ref = "ultronAndroid" }
 viewpager2 = { module = "androidx.viewpager2:viewpager2", version.ref = "viewpager2" }
 work-runtime-ktx = { module = "androidx.work:work-runtime-ktx", version.ref = "workRuntimeKtx" }
 composeBom = { module = "androidx.compose:compose-bom", version.ref = "composeBom" }
